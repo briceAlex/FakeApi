@@ -1,0 +1,34 @@
+{
+  "timeline" :[
+      {
+    "last_update": "2020-04-24T06:31:37",
+    "total_cases": 2709090,
+    "total_deaths": 190869,
+    "total_recovered": 742253
+  },
+  {
+    "last_update": "2020-04-23T23:31:38",
+    "total_cases": 2702894,
+    "total_deaths": 190475,
+    "total_recovered": 737219
+  },
+  {
+    "last_update": "2020-04-22T23:38:57",
+    "total_cases": 2622694,
+    "total_deaths": 183012,
+    "total_recovered": 709050
+  },
+  {
+    "last_update": "2020-04-21T23:39:09",
+    "total_cases": 2560323,
+    "total_deaths": 176969,
+    "total_recovered": 679175
+  },
+  {
+    "last_update": "2020-04-20T23:44:50",
+    "total_cases": 2471538,
+    "total_deaths": 169971,
+    "total_recovered": 645094
+  },
+  ]
+}
