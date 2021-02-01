@@ -30,5 +30,8 @@
     "total_deaths": 169971,
     "total_recovered": 645094
   },
-  ]
+  ],
+    "profile": {
+    "name": "typicode"
+  }
 }
